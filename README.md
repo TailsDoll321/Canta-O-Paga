@@ -17,3 +17,5 @@ y empieza el procesa el momento de los castigos.
 Se le pone uno de los castigos al jugador y este tiene que realizarlo, en caso de no hacerlo,
 se le quita un punto de los que tiene (si tiene 0, no se le quita), si lo hace, queda neutro.
 El primero en llegar a 7 puntos gana.
+
+ESTE CODIGO FUE HECHO EN MENOS DE UN DIA Y CON POCA EXPERIENCIA DE PYGAME ;-;
